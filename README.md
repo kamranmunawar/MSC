@@ -12,6 +12,7 @@ Developed an end-to-end training pipeline, leveraging the MRNet and fastMRI data
 Applied weighted loss functions and hyperparameter tuning to enhance model performance. 
 
 Generated and evaluated performance metrics, providing a robust framework for further experimentation. 
+
 PDF report <https://kamranmunawar.github.io/MSC/fastMRI/fastMRI.pdf>
 
 ## Unsupervised Learning and Dimensionality Reduction 
@@ -20,11 +21,15 @@ Applied clustering algorithms (K-Means, GMM) and evaluated performance using the
 
 Implemented dimensionality reduction techniques, including PCA, ICA, Random Projection (RP), and Locally Linear Embedding (LLE), to reduce noise and simplify datasets while preserving key information. 
 
+PDF report <https://kamranmunawar.github.io/MSC/UnsupervisedLearning/UnsupervisedLearning.pdf>
+
 ## Markov Decision Processes (MDPs) 
 
 Explored MDPs through the Forest Management Problem, demonstrating decision-making under uncertainty. 
 
 Analyzed three key MDP-solving algorithms: Value Iteration (VI), Policy Iteration (PI), and Q-Learning, comparing their effectiveness in dynamic environments. 
+
+PDF report <https://kamranmunawar.github.io/MSC/MDP/MDP.pdf>
 
 ## Optimization Algorithms 
 
