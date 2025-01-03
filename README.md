@@ -12,7 +12,7 @@ Developed an end-to-end training pipeline, leveraging the MRNet and fastMRI data
 Applied weighted loss functions and hyperparameter tuning to enhance model performance. 
 
 Generated and evaluated performance metrics, providing a robust framework for further experimentation. 
-PDF report <https://kamranmunawar.github.io/MSC/faseMRI/fastMRI.pdf> 
+PDF report <https://kamranmunawar.github.io/MSC/fastMRI/fastMRI.pdf>
 
 ## Unsupervised Learning and Dimensionality Reduction 
 
