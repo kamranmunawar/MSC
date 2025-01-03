@@ -47,6 +47,6 @@ Efficiently navigated and exploited the search space to improve performance in o
 
 In this project, I gather school rating data from Ofsted and postcode information from the Office for National Statistics. The objective is to merge these datasets and visualize the school information on a map using the plotly.graph_objects library. By combining the school ratings with geographical data, I can create an interactive map that provides valuable insights into the distribution and quality of schools across the desired area
 
- <https://kamranmunawar.github.io/Schools>
+ <https://github.com/kamranmunawar/Schools>
 
  
